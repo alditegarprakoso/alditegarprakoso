@@ -10,6 +10,11 @@ Website Developer from Bogor, Indonesia.
     <a href="https://instagram.com/alditegarprakoso" target="_blank"><img src="https://img.shields.io/badge/Instagram_-blue" /></a>    
 </p>
 
+- 🔭 I’m currently working on my personal project
+- 🌱 I’m currently learning JavaScript, PHP, and UI/UX Design
+- :sparkling_heart: I love Frontend and Backend Developer, so that makes me want to be a FullStack Developer
+- :mortar_board:My last education was diploma 3
+
   <img src="https://github-readme-stats.vercel.app/api/?username=alditegarprakoso&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000%22%20alt=%22github%20stats"/>
 
 <!--
@@ -19,9 +24,5 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning JavaScript, PHP, and UI/UX Design
-- :sparkling_heart: I love Frontend and Backend Developer, so that makes me want to be a FullStack Developer
-- :mortar_board:My last education was diploma 3
 
 
