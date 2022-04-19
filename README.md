@@ -16,12 +16,12 @@ Website Developer from Bogor, Indonesia.
 **alditegarprakoso/alditegarprakoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 
 
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning JavaScript, PHP, and UI/UX Design
-- :sparkling_heart: I like front-end and back-end developer so it makes me want to be a fullstack developer
+- :sparkling_heart: I love Frontend and Backend Developers, so that makes me want to be a FullStack Developer
 - :mortar_board:My last education was diploma 3
 
--->
+
