@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Aldi Tegar Prakoso
-Website Developer from Bogor, Indonesia.
+Fullstack Developer from Bogor, Indonesia.
 
 ### Let's connect with me!
 <p>
