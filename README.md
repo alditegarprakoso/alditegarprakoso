@@ -11,11 +11,13 @@ Fullstack Developer from Bogor, Indonesia.
 </p>
 
 - 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning JavaScript, PHP, and UI/UX Design
-- :sparkling_heart: I love Frontend and Backend Developer, so that makes me want to be a FullStack Developer
-- :mortar_board:My last education was diploma 3
+- 🌱 I’m currently learning Javascript, PHP, and Golang
+- :sparkling_heart: I love Backend and Frontend Developer, so that makes me want to be a Fullstack Developer
+- :mortar_board:My last education is Diploma 3 - Information System
 
+<!--
   <img src="https://github-readme-stats.vercel.app/api/?username=alditegarprakoso&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000%22%20alt=%22github%20stats"/>
+-->
 
 <!--
 **alditegarprakoso/alditegarprakoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
