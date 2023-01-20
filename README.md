@@ -17,7 +17,7 @@ Fullstack Developer from Bogor, Indonesia.
 
 <img src="https://github-readme-stats.vercel.app/api/?username=alditegarprakoso&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000%22%20alt=%22github%20stats"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alditegarprakoso&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alditegarprakoso&layout=compact)
 
 <!--
 **alditegarprakoso/alditegarprakoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
