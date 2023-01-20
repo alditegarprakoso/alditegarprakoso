@@ -18,8 +18,6 @@ Fullstack Developer from Bogor, Indonesia.
 
   <img src="https://github-readme-stats.vercel.app/api/?username=alditegarprakoso&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000%22%20alt=%22github%20stats"/>
 
-![legenhand's github stats](https://github-readme-stats.vercel.app/api?username=alditegarprakoso&show_icons=true&theme=onedark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alditegarprakoso&layout=compact)](https://github.com/alditegarprakoso/github-readme-stats)
 
 <!--
