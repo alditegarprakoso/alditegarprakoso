@@ -15,10 +15,9 @@ Fullstack Developer from Bogor, Indonesia.
 - :sparkling_heart: I love Backend and Frontend Developer, so that makes me want to be a Fullstack Developer
 - :mortar_board:My last education is Diploma 3 - Information System
 
+<img src="https://github-readme-stats.vercel.app/api/?username=alditegarprakoso&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000%22%20alt=%22github%20stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/?username=alditegarprakoso&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000%22%20alt=%22github%20stats"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alditegarprakoso&layout=compact)](https://github.com/alditegarprakoso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alditegarprakoso&layout=compact)]
 
 <!--
 **alditegarprakoso/alditegarprakoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
