@@ -11,7 +11,7 @@ Fullstack Developer from Bogor, Indonesia.
 </p>
 
 - 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning Javascript, PHP, and Golang
+- 🌱 I’m currently learning Javascript, PHP, Dart, and Golang
 - :sparkling_heart: I love Backend and Frontend Developer, so that makes me want to be a Fullstack Developer
 - :mortar_board:My last education is Diploma 3 - Information System
 
