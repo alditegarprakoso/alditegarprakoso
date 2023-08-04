@@ -1,3 +1,5 @@
+![readmebox](https://github.com/alditegarprakoso/alditegarprakoso/assets/56901530/03773a08-cb6a-4fba-b2d4-a49385b96c47)
+
 ### Hi there 👋 , I'm Aldi Tegar Prakoso
 Fullstack Developer from Bogor, Indonesia.
 
