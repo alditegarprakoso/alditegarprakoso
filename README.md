@@ -10,9 +10,7 @@ Fullstack Developer from Bogor, Indonesia.
     <a href="https://instagram.com/alditegarprakoso" target="_blank"><img src="https://img.shields.io/badge/Instagram_-blue" /></a>    
 </p>
 
-- 🔭 I’m currently working on PT. Tenaga Kanggo Indonesia
-- 🌱 I’m currently learning Javascript, PHP, Dart, and Golang
-- :sparkling_heart: I love Backend and Frontend Developer, so that makes me want to be a Fullstack Developer
+- 🔭 I’m currently working as Freelance Web Developer
 - :mortar_board:My last education is Diploma 3 - Information System
 
 <img src="https://github-readme-stats.vercel.app/api/?username=alditegarprakoso&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000%22%20alt=%22github%20stats"/>
