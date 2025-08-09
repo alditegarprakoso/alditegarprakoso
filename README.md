@@ -3,7 +3,7 @@ Fullstack Developer from Bogor, Indonesia.
 
 ### Let's connect with me!
 <p>
-    <a href="https://arpracreative.com" target="_blank"><img src="https://img.shields.io/badge/Website-https://arpracreative.com-blue?" /></a>
+    <a href="https://arpracreative.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-https://arpracreative.com-blue?" /></a>
     <a href="https://alditegarprakoso.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-https://alditegarprakoso.github.io/-blue?" /></a>
     <a href="https://www.linkedin.com/in/alditegarprakoso" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue" /></a>
     <a href="https://web.facebook.com/atp99/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue" /></a>
